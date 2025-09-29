@@ -29,7 +29,7 @@
         "postcss-loader": "^3.0.0",
         "sass": "^1.51.0",
         "sass-loader": "^7.3.1",
-        "sgmf-scripts": "^2.4.2",
+        "sgmf-scripts": "^3.0.0",
         "stylelint": "^8.0.0",
         "stylelint-config-standard": "^17.0.0",
         "stylelint-scss": "^2.5.0",
