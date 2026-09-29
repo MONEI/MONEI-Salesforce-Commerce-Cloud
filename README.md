@@ -23,6 +23,8 @@ If you have any questions or concerns, please visit https://support.monei.com/ a
 5. Modify the dw.json file with the user, pass and the corresponding version of code to be able to debug in the sandbox and synchronize the code
 6. Check documentation/Integration_guide.docx for more integration details and configurations
 
+The "Plugin URL" site preference must point to monei.js v3 (<code>https://js.monei.com/v3/monei.js</code>). Older versions (v1/v2) cannot show the MONEI Flex installment plan picker, so the payment never completes. If your site already has a v1/v2 URL saved, update it.
+
 <h2>Build</h2>
 
 Run the command 
